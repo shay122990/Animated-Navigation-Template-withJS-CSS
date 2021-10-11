@@ -8,8 +8,9 @@ You can use this template as is, or simply learn the methods used.
 
 ## Preview
 
-![Initial view](media/image1.gif)
-![Final view](media/image2.gif)
+![Menu bar](media/image1.gif)
+![Scroll](media/image2.gif)
+![item](media/image3.gif)
 
 ## Built With
 
@@ -61,4 +62,4 @@ SOFTWARE.
 
 shay[dot]asanova[at]gmail[dot]com
 
-## Credits
+
